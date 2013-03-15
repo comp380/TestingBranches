@@ -15,7 +15,7 @@ public class MyGdxGame implements ApplicationListener {
 	private SpriteBatch batch;
 	private Texture texture;
 	private Sprite sprite;
-	
+	//Comment for ricky branch
 	@Override
 	public void create() {		
 		float w = Gdx.graphics.getWidth();
