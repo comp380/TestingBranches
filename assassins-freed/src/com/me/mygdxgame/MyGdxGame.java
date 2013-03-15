@@ -16,6 +16,8 @@ public class MyGdxGame implements ApplicationListener {
 	private Texture texture;
 	private Sprite sprite;
 	
+	//Testing git commit
+	
 	@Override
 	public void create() {		
 		float w = Gdx.graphics.getWidth();
@@ -33,7 +35,6 @@ public class MyGdxGame implements ApplicationListener {
 		sprite.setSize(0.9f, 0.9f * sprite.getHeight() / sprite.getWidth());
 		sprite.setOrigin(sprite.getWidth()/2, sprite.getHeight()/2);
 		sprite.setPosition(-sprite.getWidth()/2, -sprite.getHeight()/2);
-		//Random2
 	}
 
 	@Override
