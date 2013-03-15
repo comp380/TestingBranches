@@ -1,4 +1,4 @@
 TestingBranches
 ===============
 
-Going to try and make Branches AFTER importing the project.
+For testing git branching and merges to master. 
