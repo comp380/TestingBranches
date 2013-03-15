@@ -14,6 +14,5 @@ public class MainActivity extends AndroidApplication {
         cfg.useGL20 = false;
         
         initialize(new MyGdxGame(), cfg);
-        /*ricky is making a comment to test eclipse pushing.*/
     }
 }
