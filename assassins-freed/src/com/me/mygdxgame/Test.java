@@ -1,6 +1,6 @@
 package com.me.mygdxgame;
 
-//Test class for git
+//Testing new class
 
 public class Test {
 
