@@ -17,6 +17,7 @@ public class MyGdxGame implements ApplicationListener {
 	private Sprite sprite;
 	
 	//Testing git commit
+	//Kazuya test
 	
 	@Override
 	public void create() {		
